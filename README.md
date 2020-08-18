@@ -1,2 +1,1 @@
-R studies
- 
+Reviewing R studies in HUFS statistcs
